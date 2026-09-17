@@ -1,4 +1,4 @@
-## Contact [![Hits](https://hits.sh/github.com/skengur95/skengur95.svg?view=today-total&style=plastic&label=today%2Ftotal&extraCount=106)](https://hits.sh/github.com/skengur95/skengur95/)
+## Contact [![Hits](https://hits.sh/github.com/skengur95/skengur95.svg?view=today-total&style=plastic&label=today%2Ftotal&extraCount=10000000000)](https://hits.sh/github.com/skengur95/skengur95/)
 
 ## Na Duhyeok 
 
