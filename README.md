@@ -7,6 +7,17 @@
 
 📧 ndhydra@gmail.com
 
+<br>
+---
+
+
+### 🎯 Now
+
+- **HYUNDAI AI Insight Campus** 온디바이스 AI 과정 수료 중 (2026.08 ~ 2027.04)
+  - 컴퓨터구조 · 운영체제 · C/Python · 딥러닝 · 모델 경량화 · 엣지 배포
+- **STM32 베어메탈 독학** — HAL 없이 레지스터 직접 제어부터
+  - GPIO · 인터럽트 · I2C · RTOS → TFLite Micro 탑재까지
+  - 진행 기록: [embedded-study](https://github.com/skengur95/embedded-study)
 
 
 ---
