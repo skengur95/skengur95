@@ -11,11 +11,10 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) 
-
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![assembly](https://img.shields.io/badge/Assembly-000000.svg?&style=for-the-badge) 
 
 **🛠️ Infra and Tools**
-![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) ![STMicroelectronics](https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?&style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 
 <br>
 
