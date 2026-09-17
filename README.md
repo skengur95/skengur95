@@ -1,13 +1,19 @@
-## Contact
+## Contact [![Hits](https://hits.sh/github.com/skengur95/skengur95.svg?view=today-total&style=plastic&label=today%2Ftotal&extraCount=106)](https://hits.sh/github.com/skengur95/skengur95/)
 
-## Na Duhyeok
+## Na Duhyeok 
 
 임베디드 · 온디바이스 AI 개발자를 준비하고 있습니다.  
 기계와 AI를 잇는 층에서, 제한된 자원 안에 최적화된 모델을 올리는 일을 하고 싶습니다.
 
-📧 ndhydra@gmail.com
+📧 ndhydra@gmail.com 
 
+
+---
 <br>
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=360&text=%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84+%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90&fontSize=70&fontAlign=50&fontAlignY=50&desc=printf%28+%22%EC%84%B1%EC%9E%A5%ED%95%A0+%25zu+%EC%A3%BC%EC%84%B8%EC%9A%94..%5Cn%22%2C+Feedback+%29%3B&descSize=20&descAlign=50&descAlignY=64)
+
+
 ---
 
 
@@ -19,11 +25,8 @@
   - GPIO · 인터럽트 · I2C · RTOS → TFLite Micro 탑재까지
   - 진행 기록: [embedded-study](https://github.com/skengur95/embedded-study)
 
-
----
 <br>
 
-[![Hits](https://hits.sh/github.com/skengur95/skengur95.svg?view=today-total&style=plastic&label=today%2Ftotal&extraCount=106)](https://hits.sh/github.com/skengur95/skengur95/)
 
 ---
 
@@ -43,7 +46,7 @@ MCU에 진동 센서를 붙여 정상/이상을 기기 단독으로 판정합니
 <br>
 
 ---
-<br>
+
 
 ### 🎮 Shipped
 
@@ -70,10 +73,7 @@ MCU에 진동 센서를 붙여 정상/이상을 기기 단독으로 판정합니
 
 <br>
 
----
-<br>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=360&text=%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84+%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90&fontSize=70&fontAlign=50&fontAlignY=50&desc=printf%28+%22%EC%84%B1%EC%9E%A5%ED%95%A0+%25zu+%EC%A3%BC%EC%84%B8%EC%9A%94..%5Cn%22%2C+Feedback+%29%3B&descSize=20&descAlign=50&descAlignY=64)
 
 
 
