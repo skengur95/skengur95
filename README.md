@@ -1,11 +1,11 @@
-## Contact [![Hits](https://hits.sh/github.com/skengur95/skengur95.svg?view=today-total&style=plastic&label=today%2Ftotal&extraCount=10000000000)](https://hits.sh/github.com/skengur95/skengur95/)
+# Contact [![Hits](https://hits.sh/github.com/skengur95/skengur95.svg?view=today-total&style=plastic&label=today%2Ftotal&extraCount=10000000000)](https://hits.sh/github.com/skengur95/skengur95/)
 
 ## Na Duhyeok 
-
-임베디드 · 온디바이스 AI 개발자를 준비하고 있습니다.  
-기계와 AI를 잇는 층에서, 제한된 자원 안에 최적화된 모델을 올리는 일을 하고 싶습니다.
-
 📧 ndhydra@gmail.com 
+
+임베디드 · 온디바이스 AI 개발자를 준비하고 있습니다.
+기계와 AI라는 점을 이어주기 위해,
+제한된 자원에서 가장 최적화된 모델로 개선해 나가는 일을 하려고 합니다.
 
 
 ---
@@ -23,8 +23,7 @@
   - 컴퓨터구조 · 운영체제 · C/Python · 딥러닝 · 모델 경량화 · 엣지 배포
 - **STM32 베어메탈 독학** — HAL 없이 레지스터 직접 제어부터
   - GPIO · 인터럽트 · I2C · RTOS → TFLite Micro 탑재까지
-  - 진행 기록: [embedded-study ]()
-  <!--(https://github.com/skengur95/embedded-study)-->
+  - 진행 기록: [embedded-study ](https://github.com/skengur95/embedded-study)
 
 <br>
 
